@@ -1,0 +1,15 @@
+first line of text
+
+git init; is my first command to initialise a project
+git status: to see if I have untracked changes to be commited
+
+2 steps:
+git add .
+git commit -m "put your own message here"
+
+
+creating a branch:
+git checkout -b mybranch
+git merge mybranch
+
+more text here
